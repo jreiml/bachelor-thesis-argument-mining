@@ -1,0 +1,9 @@
+{
+    "test_loss": 0.03374577313661575,
+    "test_mean_squared_error": 0.03374577686190605,
+    "test_root_mean_squared_error": 0.18370023369789124,
+    "test_spearman": 0.8133068494209846,
+    "test_pearson": 0.8308568488312505,
+    "epochs_trained_total": 5.431007751937985,
+    "epochs_trained_best": 2.356852420652333
+}

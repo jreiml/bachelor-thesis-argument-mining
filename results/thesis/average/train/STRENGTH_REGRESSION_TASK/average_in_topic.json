@@ -1,0 +1,16 @@
+{
+    "epochs_trained_best_mean": 4.6142828072093325,
+    "epochs_trained_best_std": 0.9061281878411992,
+    "epochs_trained_total_mean": 6.649975087194819,
+    "epochs_trained_total_std": 0.906233791181346,
+    "test_loss_mean": 0.02547403114537398,
+    "test_loss_std": 0.00028128023042876593,
+    "test_mean_squared_error_mean": 0.025474031766255695,
+    "test_mean_squared_error_std": 0.00028127972444920977,
+    "test_pearson_mean": 0.5514995969333524,
+    "test_pearson_std": 0.007067888226345444,
+    "test_root_mean_squared_error_mean": 0.159603421886762,
+    "test_root_mean_squared_error_std": 0.0008830207476859441,
+    "test_spearman_mean": 0.5055261199829663,
+    "test_spearman_std": 0.006762498562465103
+}

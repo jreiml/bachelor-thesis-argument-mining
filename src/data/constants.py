@@ -1,0 +1,36 @@
+TRAIN_DATASET_SIZE = 0.7
+DEV_DATASET_SIZE = 0.1
+TEST_DATASET_SIZE = 0.2
+
+assert TRAIN_DATASET_SIZE + DEV_DATASET_SIZE + TEST_DATASET_SIZE == 1
+
+STANCE_PRO_LABEL = "For"
+STANCE_CON_LABEL = "Against"
+STANCE_NO_ARG_LABEL = "None"
+
+SET_TRAIN = "train"
+SET_DEV = "dev"
+SET_TEST = "test"
+
+COL_ID = "id"
+COL_TOPIC = "topic"
+COL_SENTENCE = "sentence"
+COL_SET = "set"
+COL_IS_ARGUMENT = "is_argument"
+COL_IS_ARGUMENT_PROB = "is_argument_prob"
+COL_IS_STRONG = "is_strong"
+COL_IS_STRONG_PROB = "is_strong_prob"
+COL_STANCE = "stance"
+COL_STANCE_CONF = "stance_conf"
+
+PROCESSED_DATASET_FORMAT = [
+    COL_SENTENCE,
+    COL_TOPIC,
+    COL_SET,
+    COL_IS_ARGUMENT,
+    COL_IS_ARGUMENT_PROB,
+    COL_IS_STRONG,
+    COL_IS_STRONG_PROB,
+    COL_STANCE,
+    COL_STANCE_CONF,
+]

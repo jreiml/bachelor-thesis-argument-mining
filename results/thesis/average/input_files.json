@@ -1,0 +1,992 @@
+{
+    "results/average/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/average.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/average_motion.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/average_cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/average_in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/motion/argument_detection_ukp-motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/average_no_motion.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_TASK/no_motion/argument_detection_ukp-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/average.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/average_motion.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/average_in_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/average_cross_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/motion/multitask-motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/average_no_motion.json": [
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_cross_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json": [
+        "results/200/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/201/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json",
+        "results/202/train/ALL_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_no_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-strength_evidence_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/average.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/average_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/average_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/average_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/average_no_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_TASK/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_motion.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/motion/multitask-motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/average_no_motion.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_cross_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json": [
+        "results/200/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/201/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json",
+        "results/202/train/ARGUMENT_DETECTION_ARGUMENT_PROB_REGRESSION_MULTI_TASK/no_motion/multitask-no_motion-detection_evidence_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/average.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/average_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/average_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/average_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/motion/multitask-motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/average_no_motion.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_in_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json"
+    ],
+    "results/average/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json": [
+        "results/200/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/201/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json",
+        "results/202/train/STRENGTH_REGRESSION_ARGUMENT_DETECTION_MULTI_TASK/no_motion/multitask-no_motion-strength_detection_wa_cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/average.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/average_motion.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/average_cross_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/average_in_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/motion/argument_probability_regression_evidences_sentences-motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/average_no_motion.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json"
+    ],
+    "results/average/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json": [
+        "results/200/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/201/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json",
+        "results/202/train/ARGUMENT_PROB_REGRESSION_TASK/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/average.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/average_motion.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/average_in_topic.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/average_no_motion.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_ARGUMENT_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_ukp_is_arg_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_ARGUMENT_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/motion/argument_detection_ukp-motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_STRENGTH_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_alpha_mapped_arg_strength_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/motion/argument_detection_ukp-motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-cross_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json": [
+        "results/200/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/201/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json",
+        "results/202/predict/ARGUMENT_DETECTION_TRANSFER_ARG_PROB_CORRELATION/no_motion/argument_detection_ukp-no_motion-in_topic_regression_mapped_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/average.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/average_motion.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/average_in_topic.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/motion/strength_regression_arg_rank_30k_wa-motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/average_no_motion.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-cross_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json": [
+        "results/200/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/201/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json",
+        "results/202/predict/STRENGTH_REGRESSION_ARGUMENT_PROB_CORRELATION/no_motion/strength_regression_arg_rank_30k_wa-no_motion-in_topic_evidences_sentences_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/average.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/average_motion.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/average_cross_topic.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/average_in_topic.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/motion/argument_probability_regression_evidences_sentences-motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/average_no_motion.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-in_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json"
+    ],
+    "results/average/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json": [
+        "results/200/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/201/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json",
+        "results/202/predict/ARGUMENT_PROB_REGRESSION_STRENGTH_CORRELATION/no_motion/argument_probability_regression_evidences_sentences-no_motion-cross_topic_arg_rank_30k_wa_corr.json"
+    ]
+}

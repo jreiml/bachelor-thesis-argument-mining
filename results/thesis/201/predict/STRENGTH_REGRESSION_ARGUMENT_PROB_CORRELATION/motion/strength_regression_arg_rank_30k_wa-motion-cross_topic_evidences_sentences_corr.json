@@ -1,0 +1,14 @@
+{
+    "all_splits_metric": {
+        "mean_squared_error": 0.32500964403152466,
+        "root_mean_squared_error": 0.5700961947441101,
+        "spearman": 0.36417458390219076,
+        "pearson": 0.33517124277136023
+    },
+    "test_split_metric": {
+        "mean_squared_error": 0.33232054114341736,
+        "root_mean_squared_error": 0.5764725208282471,
+        "spearman": 0.3939855242848358,
+        "pearson": 0.3644448471184944
+    }
+}

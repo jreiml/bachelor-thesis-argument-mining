@@ -1,0 +1,76 @@
+# Command
+```bash
+python3 src/models/predict_model.py \
+    --input_dataset_csv data/processed/arg_quality_rank_30k_wa.csv \
+    --per_device_prediction_batch_size 64 \
+    --task ARGUMENT_DETECTION_TRANSFER_STRENGTH_CORRELATION \
+    --include_motion True \
+    --result_file_name argument_detection_ukp-motion-in_topic_regression_mapped_arg_strength_wa_corr \
+    --result_prefix 200 \
+    --model_name ./models/argument_detection_ukp-motion-in_topic/checkpoint-551
+```
+
+# Results
+```json
+{
+    "regression_metrics": {
+        "all_outputs": {
+            "mean_squared_error": 0.03267892822623253,
+            "root_mean_squared_error": 0.18077313899993896,
+            "spearman": 0.287502468412246,
+            "pearson": 0.3151496232359718
+        },
+        "positive_output": {
+            "mean_squared_error": 0.03338874503970146,
+            "root_mean_squared_error": 0.18272587656974792,
+            "spearman": 0.25477691155223986,
+            "pearson": 0.28218071485401847
+        },
+        "negative_output": {
+            "mean_squared_error": 0.032642580568790436,
+            "root_mean_squared_error": 0.1806725710630417,
+            "spearman": 0.2876947618705482,
+            "pearson": 0.3171368760411931
+        },
+        "softmax_positive_output": {
+            "mean_squared_error": 0.03323095664381981,
+            "root_mean_squared_error": 0.1822935938835144,
+            "spearman": 0.27908124687124025,
+            "pearson": 0.29016718609119757
+        },
+        "softmax_negative_output": {
+            "mean_squared_error": 0.03315290808677673,
+            "root_mean_squared_error": 0.18207940459251404,
+            "spearman": 0.27908123805624263,
+            "pearson": 0.29389323328681427
+        }
+    },
+    "raw_metrics": {
+        "positive_output": {
+            "mean_squared_error": 0.5500994324684143,
+            "root_mean_squared_error": 0.7416868805885315,
+            "spearman": 0.25477661322821504,
+            "pearson": 0.2817021383145541
+        },
+        "negative_output": {
+            "mean_squared_error": 5.369596004486084,
+            "root_mean_squared_error": 2.3172388076782227,
+            "spearman": -0.2876948143617279,
+            "pearson": -0.31735133705865215
+        },
+        "softmax_positive_output": {
+            "mean_squared_error": 0.05161013454198837,
+            "root_mean_squared_error": 0.2271786332130432,
+            "spearman": 0.2790813078710715,
+            "pearson": 0.2926425919716219
+        },
+        "softmax_negative_output": {
+            "mean_squared_error": 0.5069244503974915,
+            "root_mean_squared_error": 0.711986243724823,
+            "spearman": -0.27908132022994653,
+            "pearson": -0.29264259118346087
+        }
+    }
+}
+```
+

@@ -1,0 +1,60 @@
+{
+    "regression_metrics": {
+        "all_outputs": {
+            "mean_squared_error": 0.07386474311351776,
+            "root_mean_squared_error": 0.27178069949150085,
+            "spearman": 0.5547728606750114,
+            "pearson": 0.562937365730238
+        },
+        "positive_output": {
+            "mean_squared_error": 0.07164163142442703,
+            "root_mean_squared_error": 0.2676595449447632,
+            "spearman": 0.5542920946785571,
+            "pearson": 0.5646900803998178
+        },
+        "negative_output": {
+            "mean_squared_error": 0.07061737030744553,
+            "root_mean_squared_error": 0.2657392919063568,
+            "spearman": 0.5536861400229968,
+            "pearson": 0.5596564373957541
+        },
+        "softmax_positive_output": {
+            "mean_squared_error": 0.07632604241371155,
+            "root_mean_squared_error": 0.27627167105674744,
+            "spearman": 0.5547111309934408,
+            "pearson": 0.5645780827635095
+        },
+        "softmax_negative_output": {
+            "mean_squared_error": 0.07479298114776611,
+            "root_mean_squared_error": 0.2734830677509308,
+            "spearman": 0.5547109576018034,
+            "pearson": 0.5658427088403895
+        }
+    },
+    "raw_metrics": {
+        "positive_output": {
+            "mean_squared_error": 1.5515356063842773,
+            "root_mean_squared_error": 1.245606541633606,
+            "spearman": 0.5542920125319253,
+            "pearson": 0.5600513096382935
+        },
+        "negative_output": {
+            "mean_squared_error": 1.5726954936981201,
+            "root_mean_squared_error": 1.254071593284607,
+            "spearman": -0.5536861400229968,
+            "pearson": -0.5585374113103234
+        },
+        "softmax_positive_output": {
+            "mean_squared_error": 0.09561161696910858,
+            "root_mean_squared_error": 0.30921128392219543,
+            "spearman": 0.5547111578010062,
+            "pearson": 0.5655142279325843
+        },
+        "softmax_negative_output": {
+            "mean_squared_error": 0.44579145312309265,
+            "root_mean_squared_error": 0.6676761507987976,
+            "spearman": -0.554711130986373,
+            "pearson": -0.5655142280539954
+        }
+    }
+}

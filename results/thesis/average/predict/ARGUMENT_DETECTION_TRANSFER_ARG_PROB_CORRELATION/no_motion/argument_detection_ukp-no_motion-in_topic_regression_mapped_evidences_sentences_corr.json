@@ -1,0 +1,96 @@
+{
+    "raw_metrics": {
+        "negative_output": {
+            "mean_squared_error_mean": 1.542740782101949,
+            "mean_squared_error_std": 0.15608012927790219,
+            "pearson_mean": -0.4628705943867641,
+            "pearson_std": 0.015219061553814951,
+            "root_mean_squared_error_mean": 1.2404206196467082,
+            "root_mean_squared_error_std": 0.06401143433269053,
+            "spearman_mean": -0.46640263123904485,
+            "spearman_std": 0.022548978070549452
+        },
+        "positive_output": {
+            "mean_squared_error_mean": 2.756769339243571,
+            "mean_squared_error_std": 0.07043068938826853,
+            "pearson_mean": 0.466925833066784,
+            "pearson_std": 0.008882609438401832,
+            "root_mean_squared_error_mean": 1.6602158149083455,
+            "root_mean_squared_error_std": 0.021278747377617646,
+            "spearman_mean": 0.47409922882742817,
+            "spearman_std": 0.010991817566540125
+        },
+        "softmax_negative_output": {
+            "mean_squared_error_mean": 0.49794140458106995,
+            "mean_squared_error_std": 0.006729833103137016,
+            "pearson_mean": -0.4429087886508185,
+            "pearson_std": 0.00996906893260559,
+            "root_mean_squared_error_mean": 0.7056336005528768,
+            "root_mean_squared_error_std": 0.004758343020967063,
+            "spearman_mean": -0.4773249985706974,
+            "spearman_std": 0.014970794094679878
+        },
+        "softmax_positive_output": {
+            "mean_squared_error_mean": 0.10536239047845204,
+            "mean_squared_error_std": 0.002916768349154995,
+            "pearson_mean": 0.44290878801668,
+            "pearson_std": 0.009969068376388371,
+            "root_mean_squared_error_mean": 0.3245645562807719,
+            "root_mean_squared_error_std": 0.004499001779507335,
+            "spearman_mean": 0.47732501127019783,
+            "spearman_std": 0.014970800451657265
+        }
+    },
+    "regression_metrics": {
+        "all_outputs": {
+            "mean_squared_error_mean": 0.08276522159576416,
+            "mean_squared_error_std": 0.001169568800469146,
+            "pearson_mean": 0.47271112116026687,
+            "pearson_std": 0.011680980296322132,
+            "root_mean_squared_error_mean": 0.2876822849114736,
+            "root_mean_squared_error_std": 0.0020309116783185626,
+            "spearman_mean": 0.4824888448013924,
+            "spearman_std": 0.014218628115143584
+        },
+        "negative_output": {
+            "mean_squared_error_mean": 0.08381330966949463,
+            "mean_squared_error_std": 0.0013512970899446956,
+            "pearson_mean": 0.4622342959142127,
+            "pearson_std": 0.01367506283158488,
+            "root_mean_squared_error_mean": 0.2894958555698395,
+            "root_mean_squared_error_std": 0.0023363599572570753,
+            "spearman_mean": 0.46640266500131405,
+            "spearman_std": 0.02254898743948433
+        },
+        "positive_output": {
+            "mean_squared_error_mean": 0.08340289443731308,
+            "mean_squared_error_std": 0.0010561300824338663,
+            "pearson_mean": 0.46632915294832955,
+            "pearson_std": 0.010650397712433724,
+            "root_mean_squared_error_mean": 0.2887898286183675,
+            "root_mean_squared_error_std": 0.0018245870920260796,
+            "spearman_mean": 0.47409916797880963,
+            "spearman_std": 0.010991765593531136
+        },
+        "softmax_negative_output": {
+            "mean_squared_error_mean": 0.0859098955988884,
+            "mean_squared_error_std": 0.0009314717763953922,
+            "pearson_mean": 0.4409119762630207,
+            "pearson_std": 0.009843996254393944,
+            "root_mean_squared_error_mean": 0.2930995722611745,
+            "root_mean_squared_error_std": 0.0015919376410827959,
+            "spearman_mean": 0.4773249820818278,
+            "spearman_std": 0.014970838092407549
+        },
+        "softmax_positive_output": {
+            "mean_squared_error_mean": 0.08556851496299107,
+            "mean_squared_error_std": 0.0009582834398026845,
+            "pearson_mean": 0.4445198893235541,
+            "pearson_std": 0.010035514050624635,
+            "root_mean_squared_error_mean": 0.29251636068026227,
+            "root_mean_squared_error_std": 0.0016410148075571929,
+            "spearman_mean": 0.47732504036569257,
+            "spearman_std": 0.01497074707222379
+        }
+    }
+}

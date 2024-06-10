@@ -1,0 +1,22 @@
+{
+    "all_splits_metric": {
+        "mean_squared_error_mean": 0.1500914990901947,
+        "mean_squared_error_std": 0.012426918663953134,
+        "pearson_mean": 0.25280400252105323,
+        "pearson_std": 0.009130898452170839,
+        "root_mean_squared_error_mean": 0.3870930075645447,
+        "root_mean_squared_error_std": 0.01582722160968061,
+        "spearman_mean": 0.24471862384436713,
+        "spearman_std": 0.008427129029376914
+    },
+    "test_split_metric": {
+        "mean_squared_error_mean": 0.1538684368133545,
+        "mean_squared_error_std": 0.012382820089307859,
+        "pearson_mean": 0.24249130640220704,
+        "pearson_std": 0.008872953102488822,
+        "root_mean_squared_error_mean": 0.39195120334625244,
+        "root_mean_squared_error_std": 0.015578430926485223,
+        "spearman_mean": 0.2355078331539816,
+        "spearman_std": 0.008540501939840498
+    }
+}
